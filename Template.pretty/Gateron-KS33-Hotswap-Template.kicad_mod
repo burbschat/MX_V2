@@ -496,7 +496,7 @@
 			"f7c7c391-c857-4f41-9da4-fbc0759b3b75" "ff8e2389-1631-469f-8f58-39dc87631f7e"
 		)
 	)
-	(model "./Gateron-KS33-Socket.step"
+	(model "${KIPRJMOD}/../lib/MX_V2/3D/Gateron-KS33-Socket.step"
 		(offset
 			(xyz 5.025 -7.925 -3.5)
 		)

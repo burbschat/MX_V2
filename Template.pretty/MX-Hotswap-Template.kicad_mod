@@ -344,7 +344,7 @@
 		(roundrect_rratio 0.08)
 		(uuid "f2f92a63-b68d-4b69-a547-37c938bc0ec2")
 	)
-	(model "./MX-Hotswap-Socket.step"
+	(model "${KIPRJMOD}/../lib/MX_V2/3D/MX-Hotswap-Socket.step"
 		(offset
 			(xyz 4.815 0.86 -1.65)
 		)
